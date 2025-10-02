@@ -30,7 +30,7 @@
 ## Instalasi
 
 ```bash
-npm install @AlwaysZakzzr/baileys
+npm install @AlwaysZakzz/baileys
 
 ```
 ## Connecting
